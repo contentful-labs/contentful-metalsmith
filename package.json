@@ -12,7 +12,7 @@
     "node": ">=4"
   },
   "dependencies": {
-    "contentful": "^3.5.0",
+    "contentful": "^6.1.1",
     "debug": "^2.6.3",
     "lodash.pick": "^4.4.0",
     "lodash.template": "^4.4.0",
